@@ -12,3 +12,9 @@
 [epub|type~="se:bridgehead"] i{
 	font-style: normal;
 }
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
