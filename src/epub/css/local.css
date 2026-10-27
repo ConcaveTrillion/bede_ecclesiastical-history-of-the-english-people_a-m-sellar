@@ -1,6 +1,11 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+/* Reading files link this sheet, not se.css, where the same rule lives. */
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
 [epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
