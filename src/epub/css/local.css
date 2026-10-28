@@ -67,3 +67,12 @@ footer{
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
+
+table{
+	margin: 1em auto;
+}
+
+td,
+th{
+	vertical-align: top;
+}
