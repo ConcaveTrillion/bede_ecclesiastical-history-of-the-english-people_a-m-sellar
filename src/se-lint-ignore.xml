@@ -8,5 +8,9 @@
 			<line>3172</line>
 			<reason>Each ibid. repeats a chapter already cited in the same note.</reason>
 		</ignore>
+		<ignore code="t-057">
+			<line>1128</line>
+			<reason>The note opens with the Latin abbreviation v.l., varia lectio.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
