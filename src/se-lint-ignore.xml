@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="endnotes.xhtml">
+		<ignore code="s-039">
+			<line>271</line>
+			<line>732</line>
+			<line>2103</line>
+			<line>3172</line>
+			<reason>Each ibid. repeats a chapter already cited in the same note.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
